@@ -1,0 +1,12 @@
+D:\strah\prog\Evaluacion\Evaluacion\bin\Debug\Evaluacion.exe.config
+D:\strah\prog\Evaluacion\Evaluacion\bin\Debug\Evaluacion.exe
+D:\strah\prog\Evaluacion\Evaluacion\bin\Debug\Evaluacion.pdb
+D:\strah\prog\Evaluacion\Evaluacion\bin\Debug\Evaluacion.xml
+D:\strah\prog\Evaluacion\Evaluacion\obj\Debug\Evaluacion.vbproj.AssemblyReference.cache
+D:\strah\prog\Evaluacion\Evaluacion\obj\Debug\Evaluacion.Form1.resources
+D:\strah\prog\Evaluacion\Evaluacion\obj\Debug\Evaluacion.Resources.resources
+D:\strah\prog\Evaluacion\Evaluacion\obj\Debug\Evaluacion.vbproj.GenerateResource.cache
+D:\strah\prog\Evaluacion\Evaluacion\obj\Debug\Evaluacion.vbproj.CoreCompileInputs.cache
+D:\strah\prog\Evaluacion\Evaluacion\obj\Debug\Evaluacion.exe
+D:\strah\prog\Evaluacion\Evaluacion\obj\Debug\Evaluacion.xml
+D:\strah\prog\Evaluacion\Evaluacion\obj\Debug\Evaluacion.pdb
